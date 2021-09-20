@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sujoncham
 - 👀 I’m interested in web design
-- 🌱 I’m currently learning about PHP
+- 🌱 I’m currently learning about javascript
 - 💞️ I’m looking to collaborate on my own project 
 
 - 📫 How to reach me : Just mail me
