@@ -1,7 +1,7 @@
 ![I am Front-End Developer](https://media-exp1.licdn.com/dms/image/C4D16AQHe98evRLZNhA/profile-displaybackgroundimage-shrink_200_800/0/1654695519024?e=1668643200&v=beta&t=fSkDoHgi8-Qao8vl3iBrbf3RRuIZQRPhgcl2SGlPi5A)
 
-My name is Sujon Chambugong
-I am Front-End Developer
+##My name is Sujon Chambugong
+####I am Front-End Developer
 
 With a degree in Social Work and a strong knowledge of Front-End Development coupled with my determination to learn, I believe I am the ideal candidate for the Front-End Developer role.
 I have worked as a Front-End Developer at Spirtus for the past year. Where I had knowledge in HTML, CSS, and Bootstrap. Besides, I have learned WordPress theme customization and basic theme development. 
