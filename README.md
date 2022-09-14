@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Sujon Chambugong
+###My name is Sujon Chambugong
 #### I am Front-End Developer
 ![I am Front-End Developer](https://media-exp1.licdn.com/dms/image/C4D16AQHe98evRLZNhA/profile-displaybackgroundimage-shrink_200_800/0/1654695519024?e=1668643200&v=beta&t=fSkDoHgi8-Qao8vl3iBrbf3RRuIZQRPhgcl2SGlPi5A)
 
